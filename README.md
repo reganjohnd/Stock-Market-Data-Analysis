@@ -1,7 +1,7 @@
 # Stock-Market-Data-Analysis
 
 # Context<br/>
-### I wanted to understand whether trading the S&P500 index based on the direction of a Stochastic Oscillator indicator consistently at a set opening and closing time could yield a profit. In other words, if the Stochastic Oscillator was facing upward at the specified opening time, I would buy and if it was facing down I would buy. I would then close the trade when the closing time arrived.<br/><br/>Considering that this strategy is purely based on objective facts and no subjective interpretation, calculating this with code is ideal. 
+### I wanted to understand whether trading the S&P500 index based on the direction of a Stochastic Oscillator indicator consistently at a set opening and closing time could yield a profit. In other words, if the Stochastic Oscillator was facing upward at the specified opening time, I would buy and if it was facing down I would sell. I would then close the trade when the closing time arrived.<br/><br/>Considering that this strategy is purely based on objective facts and no subjective interpretation, calculating this with code is ideal. 
 
 # Problem Statement and Objective<br/>
 ### Problem Statement
